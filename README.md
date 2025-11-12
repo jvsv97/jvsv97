@@ -1,4 +1,4 @@
-## Hi there 👋
+## ¡Hola, hola! 👋
 
 <!--
 **jvsv97/jvsv97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Mi nombre es José Vicente Sánchez Vargues y me inicié ligeramente en el mundo de la programación durante mi paso por Países Bajos. Este año apareció la oportunidad de estudiar DAM y no me lo pensé dos veces.
+Por el momento estoy aprendiendo HTML, CSS, Java y GitHub Pages.
+[Este es mi portfolio.](https://jvsv97.github.io/mi-portofolio)
